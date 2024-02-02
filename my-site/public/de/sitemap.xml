@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tonyxxh24.github.io/my-site/de/categories/</loc>
+    <loc>https://tonyxxh24.github.io/tonyxxh24/my-site/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tonyxxh24.github.io/my-site/categories/"
+                href="https://tonyxxh24.github.io/tonyxxh24/my-site/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://tonyxxh24.github.io/my-site/de/categories/"
+                href="https://tonyxxh24.github.io/tonyxxh24/my-site/de/categories/"
                 />
   </url><url>
-    <loc>https://tonyxxh24.github.io/my-site/de/</loc>
+    <loc>https://tonyxxh24.github.io/tonyxxh24/my-site/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tonyxxh24.github.io/my-site/"
+                href="https://tonyxxh24.github.io/tonyxxh24/my-site/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://tonyxxh24.github.io/my-site/de/"
+                href="https://tonyxxh24.github.io/tonyxxh24/my-site/de/"
                 />
   </url><url>
-    <loc>https://tonyxxh24.github.io/my-site/de/tags/</loc>
+    <loc>https://tonyxxh24.github.io/tonyxxh24/my-site/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tonyxxh24.github.io/my-site/tags/"
+                href="https://tonyxxh24.github.io/tonyxxh24/my-site/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://tonyxxh24.github.io/my-site/de/tags/"
+                href="https://tonyxxh24.github.io/tonyxxh24/my-site/de/tags/"
                 />
   </url>
 </urlset>
