@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tonyxxh24.github.io/de/categories/</loc>
+    <loc>https://tonyxxh24.github.io/tonyxxh24/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tonyxxh24.github.io/categories/"
+                href="https://tonyxxh24.github.io/tonyxxh24/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://tonyxxh24.github.io/de/categories/"
+                href="https://tonyxxh24.github.io/tonyxxh24/de/categories/"
                 />
   </url><url>
-    <loc>https://tonyxxh24.github.io/de/</loc>
+    <loc>https://tonyxxh24.github.io/tonyxxh24/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tonyxxh24.github.io/"
+                href="https://tonyxxh24.github.io/tonyxxh24/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://tonyxxh24.github.io/de/"
+                href="https://tonyxxh24.github.io/tonyxxh24/de/"
                 />
   </url><url>
-    <loc>https://tonyxxh24.github.io/de/tags/</loc>
+    <loc>https://tonyxxh24.github.io/tonyxxh24/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://tonyxxh24.github.io/tags/"
+                href="https://tonyxxh24.github.io/tonyxxh24/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://tonyxxh24.github.io/de/tags/"
+                href="https://tonyxxh24.github.io/tonyxxh24/de/tags/"
                 />
   </url>
 </urlset>
